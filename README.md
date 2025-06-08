@@ -6,13 +6,11 @@ I enjoy building useful tools, automating repetitive tasks, and experimenting wi
 Over the years I've dabbled in everything from game development to terminal utilities, and more recently, Agentic AI projects with pydantic-ai.
 
 ### 🧰 Pinned Projects
+- 💸 **Budget Buddy** - an Agentic interface to YNAB for AI assisted budget assistance, including read/write operations to a budget.
 - ⚕️ **Llogos** - a novel LLM assisted personal web page customizer (prototype, wip)
-- 🐉 **Alpha-Dragon** – a vintage experiment in Python turn based strategy game development in the terminal using ncurses
-- 🧪 **util** – a grab-bag of small utilities and terminal scripts  
-- 📦 **zipper** – an early prototype 2D platform game built on Kivy
 - 🤖 **Entourage** - an early integration prototype with GPT3.5 (build with Kivy as standalone application)
-- 🌍 **Gists** - some scapy usage and basic ncurses use
-
-Most of what you'll find here is exploratory, built out of curiosity or necessity. Some projects are old, others unfinished — but all are part of the learning process.
+- 🐉 **Alpha-Dragon** – a vintage experiment in Python turn based strategy game development in the terminal using ncurses
+- 📦 **zipper** – an early prototype 2D platform game built on Kivy
+- 🧪 **util** – a grab-bag of small utilities and terminal scripts  
 
 I’m always tinkering.
